@@ -1,6 +1,24 @@
 # Artfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
+[Angular CLI] version 19.0.4.
+
+Project Structure
+
+Here's an overview of the project's structure:
+
+project-root/
+├── src/                   # Main application source code
+│   ├── app/               # Core Angular app components
+│   ├── assets/            # Static files like images, fonts, etc.
+│   ├── environments/      # Environment-specific configuration files
+│   └── index.html         # Main HTML file
+├── e2e/                   # End-to-end testing folder
+├── angular.json           # Angular CLI configuration
+├── package.json           # Node.js dependencies and scripts
+├── tsconfig.json          # TypeScript configuration
+├── README.md              # Project documentation (this file)
+└── node_modules/          # Installed dependencies (auto-generated)
+
 
 ## Development server
 
