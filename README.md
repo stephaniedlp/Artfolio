@@ -7,7 +7,7 @@ Project Structure
 Here's an overview of the project's structure:
 
 project-root/
-├── src/                   # Main application source code
+├── src/     # Main application source code
 │   ├── app/               # Core Angular app components
 │   ├── assets/            # Static files like images, fonts, etc.
 │   ├── environments/      # Environment-specific configuration files
