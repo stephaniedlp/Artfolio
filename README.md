@@ -1,4 +1,4 @@
-# QUE PLAN
+# QUE PLAN APP
 [Angular CLI] version 19.0.4.
 
 Project Structure
