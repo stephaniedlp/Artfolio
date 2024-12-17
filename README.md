@@ -1,7 +1,7 @@
 # QUE PLAN APP
 [Angular CLI] version 19.0.4.
 
-Project Structure
+## Project Structure
 
 Here's an overview of the project's structure:
 ```bash
